@@ -47,3 +47,16 @@ For iOS:
 - `cordova emulate ios` or open and run from Xcode
 
 NOTE (TODO): It is currently not possible to run on a device due to need for local webpack dev server.
+
+
+### Screenshots
+
+With black number labels as proposed in [syrjs / core#274](https://github.com/syrjs/core/pull/274)
+
+#### Android
+
+![Calculator demo on Android](https://user-images.githubusercontent.com/1559888/45881127-3fdd6800-bd78-11e8-9f04-82cf42dbed66.png)
+
+#### iOS
+
+![Calculator demo on iOS](https://user-images.githubusercontent.com/1559888/45881159-5b487300-bd78-11e8-8f92-bb4620d104cd.png)
